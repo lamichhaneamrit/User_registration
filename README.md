@@ -14,3 +14,8 @@ Packages used
 9.	express-session
 10.	cookie-parser
 11.	connect-flash
+#How to run the code
+git clone https://github.com/lamichhaneamrit/User_registration.git
+cd backend 
+npm install 
+npm run dev
