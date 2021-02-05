@@ -15,7 +15,7 @@ Packages used
 11.	connect-flash
 #How to run the code
 git clone https://github.com/lamichhaneamrit/User_registration.git
-cd backend 
+cd src
 npm install 
 npm run dev
 
