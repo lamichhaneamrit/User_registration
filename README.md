@@ -17,7 +17,8 @@ Packages used
 git clone https://github.com/lamichhaneamrit/User_registration.git
 cd src
 npm install 
-npm run dev
+npm run dev\
+**the theme is bootstrap and may be subjected to copyright**
 After it started running it should look like following:
 #Registration page\
 ![alt text](https://github.com/lamichhaneamrit/User_registration/blob/master/registration.PNG)\
